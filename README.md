@@ -1,6 +1,5 @@
-Olá, eu sou jnthann!
+Olá, eu sou jonathan!
 
-- 🌱 Front-end web 
 
 linguagens em aprendizado
  <div style="display: inline_block"><br>
